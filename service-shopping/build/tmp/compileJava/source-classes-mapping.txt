@@ -1,16 +1,28 @@
-academy/digitallab/store/shopping/ServiceShoppingApplication.java
- academy.digitallab.store.shopping.ServiceShoppingApplication
+academy/digitallab/store/shopping/model/Customer.java
+ academy.digitallab.store.shopping.model.Customer
 academy/digitallab/store/shopping/services/InvoiceService.java
  academy.digitallab.store.shopping.services.InvoiceService
+academy/digitallab/store/shopping/client/CustomerClient.java
+ academy.digitallab.store.shopping.client.CustomerClient
+academy/digitallab/store/shopping/model/Product.java
+ academy.digitallab.store.shopping.model.Product
+academy/digitallab/store/shopping/model/Region.java
+ academy.digitallab.store.shopping.model.Region
+academy/digitallab/store/shopping/repositories/InvoiceRepository.java
+ academy.digitallab.store.shopping.repositories.InvoiceRepository
+academy/digitallab/store/shopping/controllers/InvoiceController.java
+ academy.digitallab.store.shopping.controllers.InvoiceController
+academy/digitallab/store/shopping/model/Category.java
+ academy.digitallab.store.shopping.model.Category
+academy/digitallab/store/shopping/entities/Invoice.java
+ academy.digitallab.store.shopping.entities.Invoice
+academy/digitallab/store/shopping/ServiceShoppingApplication.java
+ academy.digitallab.store.shopping.ServiceShoppingApplication
+academy/digitallab/store/shopping/client/ProductClient.java
+ academy.digitallab.store.shopping.client.ProductClient
 academy/digitallab/store/shopping/entities/InvoiceItem.java
  academy.digitallab.store.shopping.entities.InvoiceItem
 academy/digitallab/store/shopping/repositories/InvoiceItemsRepository.java
  academy.digitallab.store.shopping.repositories.InvoiceItemsRepository
-academy/digitallab/store/shopping/repositories/InvoiceRepository.java
- academy.digitallab.store.shopping.repositories.InvoiceRepository
 academy/digitallab/store/shopping/services/InvoiceServiceImpl.java
  academy.digitallab.store.shopping.services.InvoiceServiceImpl
-academy/digitallab/store/shopping/controllers/InvoiceController.java
- academy.digitallab.store.shopping.controllers.InvoiceController
-academy/digitallab/store/shopping/entities/Invoice.java
- academy.digitallab.store.shopping.entities.Invoice
