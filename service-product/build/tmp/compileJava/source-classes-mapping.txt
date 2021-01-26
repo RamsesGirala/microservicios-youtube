@@ -1,0 +1,16 @@
+academy/digitallab/store/product/services/ProductService.java
+ academy.digitallab.store.product.services.ProductService
+academy/digitallab/store/product/entities/Product.java
+ academy.digitallab.store.product.entities.Product
+ academy.digitallab.store.product.entities.Product$ProductBuilder
+academy/digitallab/store/product/repositories/ProductRepository.java
+ academy.digitallab.store.product.repositories.ProductRepository
+academy/digitallab/store/product/controllers/ProductController.java
+ academy.digitallab.store.product.controllers.ProductController
+academy/digitallab/store/product/services/ProductServiceImpl.java
+ academy.digitallab.store.product.services.ProductServiceImpl
+academy/digitallab/store/product/ServiceProductApplication.java
+ academy.digitallab.store.product.ServiceProductApplication
+academy/digitallab/store/product/entities/Category.java
+ academy.digitallab.store.product.entities.Category
+ academy.digitallab.store.product.entities.Category$CategoryBuilder

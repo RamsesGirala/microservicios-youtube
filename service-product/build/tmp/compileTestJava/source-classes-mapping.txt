@@ -1,0 +1,6 @@
+academy/digitallab/store/product/ServiceProductApplicationTests.java
+ academy.digitallab.store.product.ServiceProductApplicationTests
+academy/digitallab/store/product/ProductRepositoryMockTest.java
+ academy.digitallab.store.product.ProductRepositoryMockTest
+academy/digitallab/store/product/ProductServiceMockTest.java
+ academy.digitallab.store.product.ProductServiceMockTest
