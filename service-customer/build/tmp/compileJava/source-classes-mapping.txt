@@ -1,0 +1,14 @@
+academy/digitallab/store/customer/services/CustomerService.java
+ academy.digitallab.store.customer.services.CustomerService
+academy/digitallab/store/customer/ServiceCustomerApplication.java
+ academy.digitallab.store.customer.ServiceCustomerApplication
+academy/digitallab/store/customer/entities/Customer.java
+ academy.digitallab.store.customer.entities.Customer
+academy/digitallab/store/customer/services/CustomerServiceImpl.java
+ academy.digitallab.store.customer.services.CustomerServiceImpl
+academy/digitallab/store/customer/repositories/CustomerRepository.java
+ academy.digitallab.store.customer.repositories.CustomerRepository
+academy/digitallab/store/customer/controllers/CustomerController.java
+ academy.digitallab.store.customer.controllers.CustomerController
+academy/digitallab/store/customer/entities/Region.java
+ academy.digitallab.store.customer.entities.Region
