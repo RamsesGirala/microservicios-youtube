@@ -8,6 +8,10 @@ server:
 spring:
   application:
     name: shopping-service
+  boot:
+    admin:
+      client:
+        url: http://localhost:8086
   h2:
     console:
       enabled: true
@@ -41,4 +45,8 @@ eureka:
   client:
     serviceUrl:
       defaultZone: http://localhost:8099/eureka/
-
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
